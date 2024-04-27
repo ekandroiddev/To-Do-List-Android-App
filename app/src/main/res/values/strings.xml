@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">To Do List App</string>
+    <string name="task">Task</string>
+    <string name="calendar">Calendar</string>
+    <string name="profile">Profile</string>
+    <string name="upgrade_to_pro">Upgrade to pro</string>
+    <string name="filter">Filter</string>
+    <string name="due_date_amp_time"><![CDATA[Due Date & Time]]></string>
+    <string name="by_priority">By Priority</string>
+    <string name="manage_category">Manage Category</string>
+    <string name="personal">Personal</string>
+    <string name="work">Work</string>
+    <string name="weight">Weight</string>
+    <string name="setting">Setting</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string-array name="category">
+        <item>All</item>
+        <item>Work</item>
+        <item>Personal</item>
+        <item>Wishlist</item>
+        <item>Birthday</item>
+    </string-array>
+</resources>

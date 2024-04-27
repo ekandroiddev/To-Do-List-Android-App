@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="bgColor">#012d51</color>
+    <color name="textColor">#FFFFFFFF</color>
+    <color name="cardBgColor">#014D83</color>
+    <color name="activeColor">#012d51</color>
+    <color name="appbarcolor">#0070b2</color>
+    <color name="item_unselected_color">#0070b2</color>
+    <color name="item_selected_color">#014D83</color>
+
+
+    <color name="blue">#0000ff</color>
+
+</resources>
